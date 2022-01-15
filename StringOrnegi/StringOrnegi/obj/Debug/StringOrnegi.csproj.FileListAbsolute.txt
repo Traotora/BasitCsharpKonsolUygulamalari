@@ -1,0 +1,7 @@
+C:\Users\Mahir\source\repos\StringOrnegi\StringOrnegi\bin\Debug\StringOrnegi.exe.config
+C:\Users\Mahir\source\repos\StringOrnegi\StringOrnegi\bin\Debug\StringOrnegi.exe
+C:\Users\Mahir\source\repos\StringOrnegi\StringOrnegi\bin\Debug\StringOrnegi.pdb
+C:\Users\Mahir\source\repos\StringOrnegi\StringOrnegi\obj\Debug\StringOrnegi.csproj.AssemblyReference.cache
+C:\Users\Mahir\source\repos\StringOrnegi\StringOrnegi\obj\Debug\StringOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\StringOrnegi\StringOrnegi\obj\Debug\StringOrnegi.exe
+C:\Users\Mahir\source\repos\StringOrnegi\StringOrnegi\obj\Debug\StringOrnegi.pdb
