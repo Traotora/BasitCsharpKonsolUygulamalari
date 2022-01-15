@@ -1,0 +1,7 @@
+C:\Users\Mahir\source\repos\DiziyiTerstenYazmaOrnegi\DiziyiTerstenYazmaOrnegi\obj\Debug\DiziyiTerstenYazmaOrnegi.csproj.AssemblyReference.cache
+C:\Users\Mahir\source\repos\DiziyiTerstenYazmaOrnegi\DiziyiTerstenYazmaOrnegi\obj\Debug\DiziyiTerstenYazmaOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\DiziyiTerstenYazmaOrnegi\DiziyiTerstenYazmaOrnegi\bin\Debug\DiziyiTerstenYazmaOrnegi.exe.config
+C:\Users\Mahir\source\repos\DiziyiTerstenYazmaOrnegi\DiziyiTerstenYazmaOrnegi\bin\Debug\DiziyiTerstenYazmaOrnegi.exe
+C:\Users\Mahir\source\repos\DiziyiTerstenYazmaOrnegi\DiziyiTerstenYazmaOrnegi\bin\Debug\DiziyiTerstenYazmaOrnegi.pdb
+C:\Users\Mahir\source\repos\DiziyiTerstenYazmaOrnegi\DiziyiTerstenYazmaOrnegi\obj\Debug\DiziyiTerstenYazmaOrnegi.exe
+C:\Users\Mahir\source\repos\DiziyiTerstenYazmaOrnegi\DiziyiTerstenYazmaOrnegi\obj\Debug\DiziyiTerstenYazmaOrnegi.pdb
