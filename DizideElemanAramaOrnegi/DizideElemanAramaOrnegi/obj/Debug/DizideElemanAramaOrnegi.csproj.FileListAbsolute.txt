@@ -1,0 +1,7 @@
+C:\Users\Mahir\source\repos\DizideElemanAramaOrnegi\DizideElemanAramaOrnegi\obj\Debug\DizideElemanAramaOrnegi.csproj.AssemblyReference.cache
+C:\Users\Mahir\source\repos\DizideElemanAramaOrnegi\DizideElemanAramaOrnegi\obj\Debug\DizideElemanAramaOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\DizideElemanAramaOrnegi\DizideElemanAramaOrnegi\bin\Debug\DizideElemanAramaOrnegi.exe.config
+C:\Users\Mahir\source\repos\DizideElemanAramaOrnegi\DizideElemanAramaOrnegi\bin\Debug\DizideElemanAramaOrnegi.exe
+C:\Users\Mahir\source\repos\DizideElemanAramaOrnegi\DizideElemanAramaOrnegi\bin\Debug\DizideElemanAramaOrnegi.pdb
+C:\Users\Mahir\source\repos\DizideElemanAramaOrnegi\DizideElemanAramaOrnegi\obj\Debug\DizideElemanAramaOrnegi.exe
+C:\Users\Mahir\source\repos\DizideElemanAramaOrnegi\DizideElemanAramaOrnegi\obj\Debug\DizideElemanAramaOrnegi.pdb
